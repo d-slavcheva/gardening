@@ -1,0 +1,22 @@
+$primary:#D46B4D;
+
+$secondary:#F2D5CE;
+
+$green:rgb(70, 139, 70);
+
+$navbar-light-color: $primary;
+$navbar-light-hover-color: saturate($primary,50%);
+$navbar-light-active-color: saturate($primary,50%);
+$navbar-light-disabled-color: transparentize($primary,0.6) ; 
+
+
+$font-family-base: 'poiret_oneregular', sans-serif;
+//eigene var anlegen
+$ds-heading-font:'monotonregular', sans-serif;
+$headings-font-family:  $ds-heading-font;
+
+$enable-gradients: true;
+
+
+
+
